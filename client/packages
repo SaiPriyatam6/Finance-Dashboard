@@ -1,0 +1,13 @@
+npm i react-redux @reduxjs/toolkit react-router-dom @mui/material @emotion/react @emotion/styled @mui/icons-material @mui/x-data-grid
+npm i -D @types/react-dom
+npm i -D eslint eslint-config-react-app //ESLint is an open source project that helps you find and fix problems with your JavaScript code.
+npm i -D @types/node //used for path replacement, see vite.config.ts and tsconfig.json
+npm i recharts
+npm i regression
+npm i -D @types/regression
+
+Create server folder
+Go to it
+npm init -y
+npm i express body-parser cors dotenv helmet morgan mongoose mongoose-currency
+npm i -D nodemon //automatically run server and changes whenever we change any file.
